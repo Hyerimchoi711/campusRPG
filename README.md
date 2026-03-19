@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-# campusRPG
-
-학업 성취를 위한 대학생 성장형 rpg 프로젝트
-
-20241983 최혜림
-20211088 방성준
-20221389 장우혁
-20221014 최경섭
-
-test hrchoi
-
-merge test 엘렐레 알랄라
-
-asdf
-=======
 # 캠퍼스 라이프 RPG 게임 (Campus Life RPG)
 
 ## 🎮 프로젝트 소개
@@ -82,4 +66,3 @@ source .venv/bin/activate
 *(추후 Node.js 패키지 설치 및 실행 스크립트가 추가될 예정입니다.)*
 - Backend: `cd backend && npm install && npm start`
 - Frontend: `cd frontend && npm install && npm run dev`
->>>>>>> 9b5ab07 (환경구축)
